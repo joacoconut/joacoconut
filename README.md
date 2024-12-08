@@ -33,11 +33,8 @@
 
 ![Nextjs](https://img.shields.io/badge/Next.js-292929?logo=nextdotjs&logoColor=white)
 
-![Redux](https://img.shields.io/badge/Redux_Toolkit-7046b2?logo=redux&logoColor=white)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-
 ![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular)
+
 
 ### Sistemas Operativos
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
