@@ -4,17 +4,17 @@
 
 ## Sobre mi
 
-⭐Soy un Desarrollador Frontend en busca de su primera experiencia laboral
+⭐Soy un Desarrollador Frontend en busca de su primera experiencia laboral <br>
 ⭐En mis proyectos trabajo usando tecnologías como React y Angular
 <br>
 
-## Proyectos *bombitas*
+## Proyectos personales
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Audiophile Ecommerce</h3>
 <div align="center">
-<a href="https://github.com/joacoconut/Audiophile-Ecommerce" target="_blank"><img src="https://i.imgur.com/a/AfnIjfI" width="400" alt="Audiophile"></a>
+<a href="https://github.com/joacoconut/Audiophile-Ecommerce" target="_blank"><img src="https://imgur.com/a/AfnIjfI.jpg" width="400" alt="Audiophile"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
