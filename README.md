@@ -4,7 +4,7 @@
 
 ## Sobre mi
 
-⭐Soy un Desarrollador Frontend en busca de su primera experiencia laboral <br>
+⭐Soy un Desarrollador Frontend y estoy en busca de una primera experiencia laboral <br>
 ⭐En mis proyectos trabajo usando tecnologías como React y Angular
 <br>
 
@@ -41,7 +41,6 @@
 
 ### Sistemas Operativos
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-
 
 ### Por aprender
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
