@@ -37,7 +37,7 @@
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-![Angular](https://img.shields.io/badge/Styled_Components-cf698c?logo=styled-components&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular)
 
 ### Sistemas Operativos
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
