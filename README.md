@@ -4,8 +4,8 @@
 
 ## Sobre mi
 
-⭐Soy un Desarrollador Frontend y estoy en busca de una primera experiencia laboral <br>
-⭐En mis proyectos trabajo usando tecnologías como React y Angular
+⭐Soy Desarrollador Frontend y estoy en busca de una primera experiencia laboral que me permita seguir desarrollando mis habilidades <br>
+⭐En mis proyectos trabajo con React y Next.
 <br>
 
 
