@@ -33,8 +33,6 @@
 
 ![Nextjs](https://img.shields.io/badge/Next.js-292929?logo=nextdotjs&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular)
-
 
 ### Sistemas Operativos
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
