@@ -8,11 +8,6 @@
 ⭐In my personal projects I use React and Next
 <br>
 
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joacoconut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacoconut&layout=compact&theme=radical&&hide=php)](https://github.com/ramzeta/github-readme-stats)
-
 ### Code editor
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 
